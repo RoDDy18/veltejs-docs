@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkveltejs_docs=self.webpackChunkveltejs_docs||[]).push([[2517],{584:e=>{e.exports=JSON.parse('{"title":"Core Concepts","slug":"/category/core-concepts","permalink":"/category/core-concepts","navigation":{"previous":{"title":"Getting Started","permalink":"/velx/get-started"},"next":{"title":"State","permalink":"/velx/core-concepts/state"}}}')}}]);

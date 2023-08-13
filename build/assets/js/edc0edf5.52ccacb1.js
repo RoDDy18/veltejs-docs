@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkveltejs_docs=self.webpackChunkveltejs_docs||[]).push([[4375],{6791:e=>{e.exports=JSON.parse('{"title":"Misc","slug":"/category/misc","permalink":"/1.0.4/category/misc","navigation":{"previous":{"title":"Async components","permalink":"/1.0.4/components/async"},"next":{"title":"Rendering","permalink":"/1.0.4/misc/rendering"}}}')}}]);

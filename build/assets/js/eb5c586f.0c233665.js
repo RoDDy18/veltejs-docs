@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkveltejs_docs=self.webpackChunkveltejs_docs||[]).push([[8840],{7897:e=>{e.exports=JSON.parse('{"title":"Essentials","slug":"/category/essentials","permalink":"/category/essentials","navigation":{"previous":{"title":"VelX","permalink":"/api/velx"},"next":{"title":"Creating a Velte Application","permalink":"/essentials/application"}}}')}}]);

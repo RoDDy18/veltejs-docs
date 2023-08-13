@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkveltejs_docs=self.webpackChunkveltejs_docs||[]).push([[1488],{7826:e=>{e.exports=JSON.parse('{"title":"Best Practice","slug":"/category/best-practice","permalink":"/category/best-practice","navigation":{"previous":{"title":"Dev Tools","permalink":"/velx/advanced/tools"},"next":{"title":"Scaling Up","permalink":"/best-practice/scale"}}}')}}]);

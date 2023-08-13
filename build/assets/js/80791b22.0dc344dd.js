@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkveltejs_docs=self.webpackChunkveltejs_docs||[]).push([[6842],{7076:e=>{e.exports=JSON.parse('{"title":"API Reference","slug":"/category/api-reference","permalink":"/category/api-reference","navigation":{"previous":{"title":"CLI","permalink":"/cli"},"next":{"title":"Global API","permalink":"/api/global"}}}')}}]);
